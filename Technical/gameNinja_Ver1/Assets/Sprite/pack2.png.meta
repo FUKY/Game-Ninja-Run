@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 620258b9c7c28a44dbf25d1892cab388
+timeCreated: 1429248403
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pack2_0
+    21300002: pack2_1
+    21300004: pack2_2
+    21300006: pack2_3
+    21300008: pack2_4
+    21300010: pack2_5
+    21300012: pack2_6
+    21300014: pack2_7
+    21300016: pack2_8
+    21300018: pack2_9
+    21300020: pack2_10
+    21300022: pack2_11
+    21300024: pack2_12
+    21300026: pack2_13
+    21300028: pack2_14
+    21300030: pack2_15
+    21300032: pack2_16
+    21300034: pack2_17
+    21300036: pack2_18
+    21300038: pack2_19
+    21300040: pack2_20
+    21300042: pack2_21
+    21300044: pack2_22
+    21300046: pack2_23
+    21300048: pack2_24
+    21300050: pack2_25
+    21300052: pack2_26
+    21300054: pack2_27
+    21300056: pack2_28
+    21300058: pack2_29
+    21300060: pack2_30
+    21300062: pack2_31
+    21300064: pack2_32
+    21300066: pack2_33
+    21300068: pack2_34
+    21300070: pack2_35
+    21300072: pack2_36
+    21300074: pack2_37
+    21300076: pack2_38
+    21300078: pack2_39
+    21300080: pack2_40
+    21300082: pack2_41
+    21300084: pack2_42
+    21300086: pack2_43
+    21300088: pack2_44
+    21300090: pack2_45
+    21300092: pack2_46
+    21300094: pack2_47
+    21300096: pack2_48
+    21300098: pack2_49
+    21300100: pack2_50
+    21300102: pack2_51
+    21300104: pack2_52
+    21300106: pack2_53
+    21300108: pack2_54
+    21300110: pack2_55
+    21300112: pack2_56
+    21300114: pack2_57
+    21300116: pack2_58
+    21300118: pack2_59
+    21300120: pack2_60
+    21300122: pack2_61
+    21300124: pack2_62
+    21300126: pack2_63
+    21300128: pack2_64
+    21300130: pack2_65
+    21300132: pack2_66
+    21300134: pack2_67
+    21300136: pack2_68
+    21300138: pack2_69
+    21300140: pack2_70
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pack2_0
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1970
+        width: 189
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1825
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1824
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1823
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_4
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1822
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_5
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1826
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1823
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_7
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1821
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_8
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1894
+        width: 250
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_9
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1691
+        width: 85
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_10
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1824
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_11
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1764
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1568
+        width: 54
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1566
+        width: 63
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_14
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1690
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1560
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_16
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1560
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_17
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1563
+        width: 156
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_18
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1622
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_19
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1514
+        width: 182
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_20
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1540
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_21
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1186
+        width: 200
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_22
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1462
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1320
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1319
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1319
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1318
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_27
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1317
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_28
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1318
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_29
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1361
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_30
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1340
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1040
+        width: 77
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1040
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_33
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1039
+        width: 104
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_34
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1037
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_35
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1035
+        width: 76
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_36
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1034
+        width: 94
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_37
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1036
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_38
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1192
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_39
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 986
+        width: 266
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 791
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 791
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_42
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 791
+        width: 94
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_43
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 791
+        width: 94
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_44
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 791
+        width: 93
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_45
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 789
+        width: 92
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_46
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 788
+        width: 181
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_47
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 758
+        width: 200
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 542
+        width: 105
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 541
+        width: 94
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_50
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 542
+        width: 94
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_51
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 541
+        width: 94
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_52
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 541
+        width: 94
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_53
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 541
+        width: 100
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_54
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 542
+        width: 108
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_55
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 526
+        width: 238
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_56
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 512
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 291
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 291
+        width: 134
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 291
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_60
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 290
+        width: 162
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_61
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 289
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_62
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 290
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_63
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 287
+        width: 99
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_64
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 304
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 51
+        width: 145
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 43
+        width: 102
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_67
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 42
+        width: 120
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_68
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 42
+        width: 148
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_69
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 42
+        width: 152
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pack2_70
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 144
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
