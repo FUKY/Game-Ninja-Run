@@ -5,7 +5,7 @@ public class MoveMaps : MonoBehaviour {
 
     public static bool stopGame = false;
 
-    public static float mapMoveSpeed = 5.0f;
+    public static float mapMoveSpeed = 4.0f;
 	// Use this for initialization
 	void Start () {
 	    

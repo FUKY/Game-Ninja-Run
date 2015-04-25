@@ -7,22 +7,24 @@ public class SetCollisionEnemy1 : MonoBehaviour {
 
     bool isAttack = true;
 
-    Animator anim;
-
-    public Transform frontCheck;
+    public static Animator anim;
 
     public GameObject playerObject;
 
     public AudioClip audioEnemydead1;
 
-	// Use this for initialization
-	void Start () {
+    public CircleCollider2D circleCollider;
 
+	// Use this for initialization
+	void Start ()
+    {
+        //circleCollider.enabled = false;
         anim = GetComponent<Animator>();
 	}
 
 	// Update is called once per frame
 	void Update () {
+
         if (playerObject != null)
         {
             distanceWithPlayer = transform.position.x - playerObject.transform.position.x;
@@ -73,4 +75,15 @@ public class SetCollisionEnemy1 : MonoBehaviour {
     {
         anim.SetBool("isAttackOfEnemy", false);
     }
+
+    public void DestroyDead()
+    {
+        Destroy(gameObject);
+    }
+
+    public void BeforeDestroy()
+    {
+        circleCollider.enabled = false;
+    }
+
 }

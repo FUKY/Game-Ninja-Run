@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scrips\CameraFollow.cs" />
      <Compile Include="Assets\Scrips\CloudMove.cs" />
      <Compile Include="Assets\Scrips\CollisionWithPlayer.cs" />
+     <Compile Include="Assets\Scrips\CreateMaps.cs" />
      <Compile Include="Assets\Scrips\DestroyGameObject.cs" />
      <Compile Include="Assets\Scrips\DestroyerGround.cs" />
      <Compile Include="Assets\Scrips\EnemyMove.cs" />
