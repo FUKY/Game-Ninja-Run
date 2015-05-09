@@ -1,0 +1,13 @@
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\Assembly-CSharp.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\UnityEditor.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\UnityEngine.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\UnityEngine.UI.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\Mono.Cecil.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\Unity.DataContract.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\Temp\bin\Debug\Unity.CecilTools.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\obj\Debug\Assembly-CSharp.dll
+D:\DO AN\GameNinja\trunk\Technical\gameNinja_Ver1\obj\Debug\Assembly-CSharp.pdb
